@@ -1,0 +1,31 @@
+
+
+.box{
+  height: 700px;
+  background-color: lightgrey;
+  
+}
+h3{
+
+  font-size: larger;
+  font: outline;
+  font-style: italic;
+  color: black;
+}
+
+.dayLight{
+  background-color: yellow;
+  height: 700px;
+}
+h1{
+ 
+  color: white;
+
+}
+.btn
+{
+  color: purple;
+  background-color: white;
+  font-size: x-large;  
+}
+
